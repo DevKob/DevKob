@@ -3,4 +3,4 @@ I work as an Application Support Analyst at InMotion technology innovation. I al
 #
 📌 LinkedIn: @tmfikrif
 #
-[HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.shtml)
+Founder [HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.shtml)
