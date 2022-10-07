@@ -11,8 +11,8 @@ I have experience in programming since 2012. The application that I have develop
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>
  
   <div align="center">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
  </div>
   
 
