@@ -5,9 +5,9 @@ I have experience in programming since 2012. The application that I have develop
 <details close="false">
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>
   <div align="center">
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
-  <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=samkoba&hide=html&layout=compact&theme=dracula" />
+  <img height="110px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
+  <img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
+  <img height="110px" src="https://github-readme-streak-stats.herokuapp.com/?user=samkoba&hide=html&layout=compact&theme=dracula" />
 
  </div>
   
