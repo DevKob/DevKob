@@ -17,10 +17,10 @@ Founder [HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.
   
 
 #
-  <img height="140px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
-  <img height="140px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
-  <img height="140px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
-  <img height="140px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" />
+  <img height="145px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
+  <img height="145px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
+  <img height="145px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
+  <img height="145px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" />
  
  </details>
  
