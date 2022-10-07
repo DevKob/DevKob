@@ -17,7 +17,7 @@ I have experience in programming since 2012. The application that I have develop
  </details>
  
 <!--<a href="https://www.linkedin.com/in/tmfikrif/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
-[![paypal.me/tmfikrif](https://ionicabizau.github.io/badges/paypal.svg)]([https://www.paypal.me/tmfikrif])
+[![paypal.me/tmfikrif](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/tmfikrif)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srivastavar433@gmail.com)](mailto:samkoba.dev@gmail.com)
 
 Founder [HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.shtml)
