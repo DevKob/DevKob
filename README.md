@@ -16,7 +16,10 @@ I have experience in programming since 2012. The application that I have develop
   <img height="148px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" />
  </details>
  
-<a href="https://www.linkedin.com/in/tmfikrif/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!--<a href="https://www.linkedin.com/in/tmfikrif/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+[![paypal.me/tmfikrif](https://ionicabizau.github.io/badges/paypal.svg)]([https://www.paypal.me/anuraghazra](https://paypal.me/tmfikrif?country.x=ID&locale.x=en_US))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srivastavar433@gmail.com)](mailto:samkoba.dev@gmail.com)
 
 Founder [HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.shtml)
+
+
