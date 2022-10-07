@@ -14,10 +14,11 @@ I have experience in programming since 2012. The application that I have develop
   <img height="148px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" />
-  <img align="center" src="https://komarev.com/ghpvc/?username=samkoba" alt="samkoba" />
  </details>
  
 <!--<a href="https://www.linkedin.com/in/tmfikrif/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+ <img align="center" src="https://komarev.com/ghpvc/?username=samkoba" alt="samkoba" />
+ 
 [![paypal.me/tmfikrif](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/tmfikrif)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srivastavar433@gmail.com)](mailto:samkoba.dev@gmail.com)
 
