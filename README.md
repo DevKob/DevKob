@@ -7,8 +7,8 @@ Founder [HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>
  
   <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
  </div>
  
  
