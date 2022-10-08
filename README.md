@@ -1,6 +1,6 @@
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&pause=1000&color=4AB72A&multiline=true&width=435&height=70&lines=____________%3CSamkobaDevHub%3E_____________;Desktop+%7C+Mobile+%7C+Web+%7C+IoT+%7C+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=___________%3CSamkobaDevHub%3E____________)](https://git.io/typing-svg)
 
 </div>
 
