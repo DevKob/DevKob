@@ -1,8 +1,11 @@
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=</SamkobaDevHub>)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&pause=1000&color=4AB72A&multiline=true&width=435&height=70&lines=____________%3CSamkobaDevHub%3E_____________;Desktop+%7C+Mobile+%7C+Web+%7C+IoT+%7C+Cloud)](https://git.io/typing-svg)
 
 </div>
+
+
+
 
 ### I'm Samkoba.
 I have experience in programming since 2012. The application that I have developed is Antivirus for Windows Operating System Security. Another application that I have developed is the design of IoT devices using an integrated microcontroller. Currently I am only focused on developing my career in Cloud Computing.
