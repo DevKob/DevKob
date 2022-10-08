@@ -7,7 +7,7 @@
 
 
 
-### I'm Samkoba.
+#### I'm Samkoba.
 I have experience in programming since 2012. The application that I have developed is Antivirus for Windows Operating System Security. Another application that I have developed is the design of IoT devices using an integrated microcontroller. Currently I am only focused on developing my career in Cloud Computing.
 #
 <img align='left' height='160' style="margin-left:20px" src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
