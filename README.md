@@ -9,6 +9,8 @@
 
 #### I'm Samkoba.
 I have experience in programming since 2012. The application that I have developed is Antivirus for Windows Operating System Security. Another application that I have developed is the design of IoT devices using an integrated microcontroller. Currently I am only focused on developing my career in Cloud Computing.
+
+
 #
 <img align='left' height='160' style="margin-left:20px" src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
 <details close="false">
@@ -22,10 +24,15 @@ I have experience in programming since 2012. The application that I have develop
   
     
 #
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--
   <img height="148px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
-  <img height="148px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" />
+  <img height="148px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" /> -->
  </details>
  
 <!--<a href="https://www.linkedin.com/in/tmfikrif/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
