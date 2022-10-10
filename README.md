@@ -21,12 +21,10 @@ I have experience in programming since 2012. The application that I have develop
 <!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=samkoba&hide=html&layout=compact&theme=dracula" />
  <img height="120px" src="https://activity-graph.herokuapp.com/graph?username=samkoba&theme=dracula" /> -->
  </div>
-  
     
 #
+<img height="150px" src="https://github-profile-trophy.vercel.app/?username=samkoba&column=8&row=1&theme=dracula" />
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
   <img height="148px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
