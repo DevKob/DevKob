@@ -24,7 +24,7 @@ I have experience in programming since 2012. The application that I have develop
     
 #
   <div align="center">
-<img height="170px" src="https://github-profile-trophy.vercel.app/?username=samkoba&column=8&row=1&theme=dracula" />
+<img height="150px" src="https://github-profile-trophy.vercel.app/?username=samkoba&column=7&row=1&theme=dracula" />
  </div>
 
 <!--
