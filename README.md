@@ -23,8 +23,9 @@ I have experience in programming since 2012. The application that I have develop
  </div>
     
 #
-<img height="150px" src="https://github-profile-trophy.vercel.app/?username=samkoba&column=8&row=1&theme=dracula" />
-
+  <div align="center">
+<img height="170px" src="https://github-profile-trophy.vercel.app/?username=samkoba&column=8&row=1&theme=dracula" />
+ </div>
 
 <!--
   <img height="148px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
