@@ -1,15 +1,25 @@
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=___________%3C/SamkobaDevHub%3E____________)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=__________%3C/SamkobaDevHub%3E____________)](https://git.io/typing-svg)
 
 </div>
 
 
 
 
-#### I'm Samkoba.
-I have experience in programming since 2012. The application that I have developed is Antivirus for Windows Operating System Security. Another application that I have developed is the design of IoT devices using an integrated microcontroller. Currently I am only focused on developing my career in Cloud Computing.
 
+```c
+#include <I'm.Samkoba> 
+int main() {
+
+  printf( 
+         //HELLO DEVELOPER!
+         "I have experience in programming since 2012.\n 
+          The application that I have developed is Antivirus for Windows Operating System.\n
+          Another application that I have developed is the design of IoT devices using an integrated microcontroller.\n
+          Currently I am only focused on developing my career in Cloud Computing."); 
+}
+```
 
 #
 <img align='left' height='160' style="margin-left:20px" src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
