@@ -9,12 +9,11 @@
 
 
 ```c
+//HELLO DEVELOPERS!
 #include <I'm.Samkoba> 
 int main() {
 
-  printf( 
-         //HELLO DEVELOPERS!
-         "I have experience in programming since 2012.\n 
+  printf("I have experience in programming since 2012.\n 
           The application that I have developed is Antivirus for Windows Operating System.\n
           Another application that I have developed is the design of IoT using an integrated microcontroller.\n
           Currently I am only focused on developing my career in Cloud Computing."); 
