@@ -13,10 +13,10 @@
 int main() {
 
   printf( 
-         //HELLO DEVELOPER!
+         //HELLO DEVELOPERS!
          "I have experience in programming since 2012.\n 
           The application that I have developed is Antivirus for Windows Operating System.\n
-          Another application that I have developed is the design of IoT devices using an integrated microcontroller.\n
+          Another application that I have developed is the design of IoT using an integrated microcontroller.\n
           Currently I am only focused on developing my career in Cloud Computing."); 
 }
 ```
