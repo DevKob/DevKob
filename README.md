@@ -1,12 +1,13 @@
-<img width=100% title="SamkobaDevHub" alt="SamkobaDevHub" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=125&section=header&text=SamkobaDevHub&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
+<!--<img width=100% title="SamkobaDevHub" alt="SamkobaDevHub" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=125&section=header&text=SamkobaDevHub&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
+-->
 
-<!--  
+
 <div id="badges"  align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=__________%3C/SamkobaDevHub%3E____________)
 
 </div>
--->
+
 
 
 
@@ -54,6 +55,6 @@ int main() {
 
 Founder [HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.shtml)
 
-
-  <img width=100% title="samkoba" alt="samkobadev"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
+<!--
+  <img width=100% title="samkoba" alt="samkobadev"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/> -->
 
