@@ -1,4 +1,4 @@
-
+<div id="badges"  align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=__________%3C/SamkobaDevHub%3E____________)
 
