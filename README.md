@@ -52,5 +52,5 @@ int main() {
 Founder [HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.shtml)
 
 
-  <img width=100% title="samkoba" alt="samkobadev"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,24&height=100&section=footer"/>
+  <img width=100% title="samkoba" alt="samkobadev"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
 
