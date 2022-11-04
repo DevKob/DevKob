@@ -1,5 +1,4 @@
-  <img width=100% title="samkoba" alt="samkobadev"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,18,12,2&height=100&section=header&fontSize=35&fontColor=fff&animation=twinkling"/>
-<div id="badges"  align="center">
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=__________%3C/SamkobaDevHub%3E____________)
 
