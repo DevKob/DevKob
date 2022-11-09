@@ -36,16 +36,22 @@ int main() {
  </div>
     
 #
+  
+   
+  
   <div align="center">
 <img height="150px" src="https://github-profile-trophy.vercel.app/?username=samkoba&column=7&row=1&theme=dracula" />
  </div>
-
+  
+[![@samkoba's Holopin board](https://holopin.me/samkoba)](https://holopin.io/@samkoba)
 <!--
   <img height="148px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" /> -->
  </details>
+ 
+
  
 <!--<a href="https://www.linkedin.com/in/tmfikrif/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
  <img align="center" src="https://komarev.com/ghpvc/?username=samkoba" alt="samkoba" />
