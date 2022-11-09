@@ -49,7 +49,7 @@ int main() {
   <img height="148px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" /> 
-  <img height="148px" src="https://samkoba.github.io/images/travelkoba1.jpg" />  
+
  </details>
  
 
