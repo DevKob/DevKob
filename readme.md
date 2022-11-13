@@ -44,7 +44,7 @@ int main() {
  </div>
   
 [![@samkoba's Holopin board](https://holopin.me/samkoba)](https://holopin.io/@samkoba)
-
+<center>
   <img height="148px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
