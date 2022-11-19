@@ -26,8 +26,8 @@ int main() {
 
 #
 <img align='left' height='160' style="margin-left:20px" src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
-<details close="false">
-  <summary><b>:gear: &nbsp;Git Statistics</b></summary>
+<!-- <details close="true"> -->
+  <summary><b>:octocat: &nbsp;Git Statistics</b></summary>
   <div align="center">
   <img height="125px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
   <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
