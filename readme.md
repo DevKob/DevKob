@@ -32,8 +32,8 @@ int main() {
  <details open="true"> 
   <summary><b>:octocat: &nbsp;Git Statistics</b></summary>
   <div align="center">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
+  <img height="115px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
+  <img height="115px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
 <!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=samkoba&hide=html&layout=compact&theme=dracula" />
  <img height="120px" src="https://activity-graph.herokuapp.com/graph?username=samkoba&theme=dracula" /> -->
  </div>
