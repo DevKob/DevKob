@@ -4,7 +4,7 @@
 
 <div id="badges"  align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=_____________%3C/SamkobaDev%3E____________)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=____________%3C/SamkobaDev%3E____________)
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tmfikrif)
   
