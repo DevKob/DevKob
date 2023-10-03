@@ -43,7 +43,7 @@ int main() {
    
   
   <div align="center">
-<img height="135px" src="https://github-profile-trophy.vercel.app/?username=samkoba&column=9&row=1&theme=dracula" />
+<img height="135px" src="https://github-profile-trophy.vercel.app/?username=samkoba&column=10&row=1&theme=dracula" />
  </div>
   
 [![@samkoba's Holopin board](https://holopin.me/samkoba)](https://holopin.io/@samkoba)
