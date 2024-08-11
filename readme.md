@@ -32,8 +32,8 @@ int main() {
  <details open="true"> 
   <summary><b>:octocat: &nbsp;Git Statistics</b></summary>
   <div align="center">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=samkoba&show_icons=true&theme=dracula" />
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samkoba&hide=html&layout=compact&theme=dracula" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=tmfikrif&show_icons=true&theme=dracula" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmfikrif&hide=html&layout=compact&theme=dracula" />
 <!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=samkoba&hide=html&layout=compact&theme=dracula" />
  <img height="120px" src="https://activity-graph.herokuapp.com/graph?username=samkoba&theme=dracula" /> -->
  </div>
@@ -43,7 +43,7 @@ int main() {
    
   
   <div align="center">
-<img height="130px" src="https://github-profile-trophy.vercel.app/?username=samkoba&column=11&row=1&theme=dracula" />
+<img height="135px" src="https://github-profile-trophy.vercel.app/?username=tmfikrif&column=11&row=1&theme=dracula" />
  </div>
   
 [![@samkoba's Holopin board](https://holopin.me/samkoba)](https://holopin.io/@samkoba)
