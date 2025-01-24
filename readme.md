@@ -6,7 +6,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&duration=3000&pause=99974&color=4AB72A&width=435&height=40&lines=___________%3C/SamkobaDev%3E____________)
 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tmfikrif)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/DevKob)
   
 </div>
 
@@ -16,7 +16,7 @@
 
 ```c
 //HELLO DEVELOPERS!
-#include <I'm.Samkoba> 
+#include <I'm.DevKob> 
 int main() {
 
   printf("I have experience in programming since 2012.\n 
@@ -32,8 +32,8 @@ int main() {
  <details open="true"> 
   <summary><b>:octocat: &nbsp;Git Statistics</b></summary>
   <div align="center">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=tmfikrif&show_icons=true&theme=dracula" />
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmfikrif&hide=html&layout=compact&theme=dracula" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=DevKob&show_icons=true&theme=dracula" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKob&hide=html&layout=compact&theme=dracula" />
 <!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=samkoba&hide=html&layout=compact&theme=dracula" />
  <img height="120px" src="https://activity-graph.herokuapp.com/graph?username=samkoba&theme=dracula" /> -->
  </div>
@@ -43,7 +43,7 @@ int main() {
    
   
   <div align="center">
-<img height="135px" src="https://github-profile-trophy.vercel.app/?username=tmfikrif&column=11&row=1&theme=dracula" />
+<img height="135px" src="https://github-profile-trophy.vercel.app/?username=DevKob&column=11&row=1&theme=dracula" />
  </div>
   
 [![@samkoba's Holopin board](https://holopin.me/samkoba)](https://holopin.io/@samkoba)
@@ -57,10 +57,10 @@ int main() {
  
 
  
-<!--<a href="https://www.linkedin.com/in/tmfikrif/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+<!--<a href="https://www.linkedin.com/in/DevKob/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
  <img align="center" src="https://komarev.com/ghpvc/?username=samkoba" alt="samkoba" />
  
-[![paypal.me/tmfikrif](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/tmfikrif)
+[![paypal.me/DevKob](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/DevKob)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srivastavar433@gmail.com)](mailto:samkoba.dev@gmail.com)
 
 Founder [HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.shtml)
