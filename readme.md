@@ -62,7 +62,7 @@ int main() {
  <img align="center" src="https://komarev.com/ghpvc/?username=samkoba" alt="samkoba" />
  
 [![paypal.me/DevKob](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/DevKob)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srivastavar433@gmail.com)](mailto:samkoba.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srivastavar433@gmail.com)](mailto:devkob.hub@gmail.com)
 
 Founder [HDCT ANTIVIRUS](https://www.softpedia.com/get/Antivirus/HDCT-ANTIVIRUS.shtml)
 
