@@ -17,15 +17,12 @@
 ```c
 //HELLO DEVELOPERS!
 #include <GitIntro>  
-using namespace std;  
-  
 int main() {  
   
   printf("Hey there!\n"  
          "The DevKob GitHub account is where I do my research and dev on the latest tech stuff.\n"  
          "It's all about exploring new ideas, collaborating, and sharing what I find with the community.\n"
          "Feel free to reach out if you want to collaborate or brainstorm on any projects!\n");
-
   return 0;  
 }  
 ```
