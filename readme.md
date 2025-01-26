@@ -16,14 +16,18 @@
 
 ```c
 //HELLO DEVELOPERS!
-#include <I'm.DevKob> 
-int main() {
+#include <GitIntro>  
+using namespace std;  
+  
+int main() {  
+  
+  printf("Hey there!\n"  
+         "The DevKob GitHub account is where I do my research and dev on the latest tech stuff.\n"  
+         "It's all about exploring new ideas, collaborating, and sharing what I find with the community.\n"
+         "Feel free to reach out if you want to collaborate or brainstorm on any projects!\n");
 
-  printf("I have experience in programming since 2012.\n 
-          The application that I have developed is Antivirus for Windows Operating System.\n
-          Another application that I have developed is the design of IoT using an integrated microcontroller.\n
-          Currently I am only focused on developing my career in Cloud Computing."); 
-}
+  return 0;  
+}  
 ```
 
 #
