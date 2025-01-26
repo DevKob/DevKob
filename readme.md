@@ -4,7 +4,7 @@
 
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&pause=1000&color=20F71A&width=435&lines=_________%3C%2FDevKob%3E__________)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=linux&pause=1000&color=20F71A&width=435&lines=____    _____%3C%2FDevKob%3E__________)](https://git.io/typing-svg)
 
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/devkob)
   
